@@ -12,7 +12,7 @@ I am running on Mac OS X and have not tested this on linux.
 Uses [rcm](https://github.com/thoughtbot/rcm) to link the dotfiles.
 
 ```terminal
-git clone git://github.com/sfroehler/dotfiles ~/.dotfiles
+git clone git://github.com/jonathan-jaekel/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 brew bundle
 rcup
